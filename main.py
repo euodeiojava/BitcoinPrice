@@ -14,7 +14,7 @@ while True:
         print(preco)
         engine.say('Preço do bitcoin: ' + preco )
         engine.runAndWait()
-        time.sleep(600)
+        time.sleep(61)
 
     else:
 
